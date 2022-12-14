@@ -32,7 +32,7 @@ inquirer
             type: 'list',
             message: 'What is the license of the project?',
             name: 'license',
-            choices: ['','','']
+            choices: ['IBM','MIT','Mozilla']
         },
         {
             type: 'input',
